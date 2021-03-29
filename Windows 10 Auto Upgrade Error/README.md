@@ -10,7 +10,7 @@
   
   
 ## - Action
-1. NetFxRepairTool 사용해서 windows 10 내장 .net framework를 복구한다.  
+1. [NetFxRepairTool](./NetFxRepairTool.exe) 사용해서 windows 10 내장 .net framework를 복구한다.  
 -> 재시작 해서 해당 현상이 해결되었는지 확인한다.  
   
 2. Microsoft Visual C++ xxxx Redistributable xxx  
