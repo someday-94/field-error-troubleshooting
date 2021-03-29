@@ -1,6 +1,6 @@
 ## - Issue
 1. Error Screenshot  
-
+![1](./Error Screenshot/2021-03-16 140401.png)
 2. OS Version : Windows 10 64bit
   
   
