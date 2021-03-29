@@ -1,5 +1,6 @@
 # field-error-troubleshooting
 
+OS ver. Windows7 64bit
 
 C:\Windows\System32 경로에 32bit 파일 복사 붙여넣기
 
