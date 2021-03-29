@@ -1,6 +1,6 @@
 ## - Issue
 1. Error Screenshot  
-![1](./Error Screenshot/2021-03-16 140401.png)
+![1](./Error%20Screenshot/2021-03-16%20140401.png){: width="100" height="100"} ![2](./Error%20Screenshot/2021-03-16%20140419.png){: width="100" height="100"}
 2. OS Version : Windows 10 64bit
   
   
